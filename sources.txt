@@ -23,5 +23,5 @@ FILE FORMAT (MISSING VALUE CODE IS -9999):
 
 STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
 
- 1639,105647,CAMBRIDGE (B. GDNS)                     ,GB,+52:11:35,+000:07:55,  13, TX9,20010101,20241228,   35,National Climate Information Centre (UKMO)        
- 1639,119378,CAMBRIDGE (B. GDNS)                     ,GB,+52:11:35,+000:07:55,  13, TX1,19501101,19511025,   50,GHCND                                             
+ 1812,107962,YEOVILTON                               ,GB,+51:00:22,-002:38:24,  20, RR3,19640901,20250630,   35,National Climate Information Centre (UKMO)        
+ 1812,221494,YEOVILTON                               ,GB,+51:00:22,-002:38:24,  20, RR7,19870513,20191230,   84,Matthew Fry                                       

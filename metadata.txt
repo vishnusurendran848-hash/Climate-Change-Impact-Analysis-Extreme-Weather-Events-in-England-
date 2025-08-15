@@ -8,10 +8,10 @@ Data and metadata available at http://www.ecad.eu
 
 
 ----------------------------------------------------------------
-1639,CAMBRIDGE (B. GDNS),UNITED KINGDOM,+52:11:35,+000:07:55,13 m 
+1812,YEOVILTON,UNITED KINGDOM,+51:00:22,-002:38:24,20 m 
 ----------------------------------------------------------------
 * Land use:
-Large garden in urban area
+Open airfield
 * Soil type:
 
 * Surface coverage:
